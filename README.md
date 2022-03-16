@@ -14,7 +14,10 @@ I'm a AI Engineer focused on Computer Vision from Indonesia. My primary interest
 [<img align="left" alt="hklard | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg">][twitter]
 [<img align="left" alt="hklard | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg">][instagram]
 
+<br/>
+<br/>
 
+---
 ### 🌟 Github Stats:
 
 <img align="left" alt="Kal Github Stats" src="https://github-readme-stats.vercel.app/api?username=Clayrisee&show_icons=true&theme=tokyonight">
