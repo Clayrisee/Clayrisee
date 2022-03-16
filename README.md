@@ -25,4 +25,6 @@ I'm a AI Engineer focused on Computer Vision from Indonesia. My primary interest
 
 <img align="left" alt="Kal Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clayrisee&layout=compact&theme=tokyonight">
 
-
+[linkedin]: https://www.linkedin.com/in/haikalardikatama/
+[twitter]: https://twitter.com/hklard
+[instagram]: https://www.instagram.com/hklard/
