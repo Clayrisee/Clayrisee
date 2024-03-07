@@ -3,7 +3,7 @@
 I'm a AI Engineer focused on Computer Vision from Indonesia. My primary interest lies in the field of **Machine Learning**, **Artificial Intelligence**, and **MLOps**. I mostly use Python as the main programming language. Experience with various Machine Learning tools and algorithms such as Pytorch, Tensorflow, CNN, and Open CV. BTW, I'm also always hungry for new knowledge!
 
 ### I'm Student, Engineer, & Human
-- 🏢 I'm currently active as RnD Engineer at WebScientia (part of AlfaCorp)
+- 🏢 I'm currently active as RnD Engineer at WebScientia
 - 🏢 Ex AI Engineer at Nodeflux & Lead at Gunadarma I/O
 - 🚀 I'm currently learning about Computer Vision and MLOps
 - 👋 I'm frequently using Python (Pytorch, Tensorflow, OpenCV, and many more libraries)
